@@ -1,0 +1,68 @@
+body {
+	background: url(Caravelle2.jpg);
+	background-position: center center;
+	background-repeat: no-repeat; 
+	background-attachment: fixed; 
+	background-size: cover;
+}
+#params {
+	background-color: white;
+	
+	opacity: 0.7;
+	border-radius: 20px;
+	border-style: solid;
+	border-color: black;
+}
+#text {
+	margin-left: 30%;
+}
+#ruby {
+	background-color: black;
+	margin-right: 50%;
+	margin-left: 15%;
+	margin-top: 10%;
+	opacity: 0.7;
+	border-radius: 20px;
+	border-style: solid;
+	border-color: white;
+	color: white;
+}
+#html5 {
+	background-color: black;
+	margin-right: 5%;
+	margin-left: 60%;
+	margin-top: -15%;
+	opacity: 0.7;
+	color :white;
+	border-radius: 20px;
+	border-style: solid;
+	border-color: white;
+
+}
+#css3 {
+	background-color: black;
+	margin-right: 50%;
+	margin-left: 15%;
+	margin-top: 5%;
+	opacity: 0.7;
+	border-radius: 20px;
+	border-style: solid;
+	border-color: white;
+	color: white;
+}
+#Coupedumonde {
+	background-color: black;
+	margin-right: 5%;
+	margin-left: 60%;
+	margin-top: -15%;
+	opacity: 0.7;
+	border-radius: 20px;
+	border-style: solid;
+	border-color: white;
+	color: white;
+}
+h1 {
+	color: black;
+
+}
+
